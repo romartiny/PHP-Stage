@@ -1,0 +1,5 @@
+<?php 
+
+    $articleId = 1;
+
+?>
